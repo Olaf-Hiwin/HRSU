@@ -1,0 +1,10 @@
+2024-4-4_15:28:47 hdl 1 cmd 1450 rlt 4029 len 0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 2 msts 2 op 0 t1/2 0 pl 0.00 ov 10 fo 0001 coord 0 sz 31
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 0.00 ov 10 fo 0000 coord 1 sz 37
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 0.00 ov 10 fo 0000 coord 0 sz 31
+Network disconnected !SDK handle fun close connection !
+ShutdownAndColse socket= 0683C4C4
+ShutdownAndColse socket= 0683C4C8
+ShutdownAndColse socket= 0683C4CC
+2024-4-4_15:28:50 Close connection !
+127.0.0.1 1

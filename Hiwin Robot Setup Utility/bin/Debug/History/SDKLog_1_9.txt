@@ -1,0 +1,123 @@
+2024-1-5_14:27:41 set_mode 0  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 3.00 ov 10 fo 0000 coord 0 sz 31
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 0 t1/2 0 pl 3.00 ov 10 fo 0000 coord 0 sz 31
+"HRSDK version" does not match "HRSS SDK version", some functions can't be used.
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 10 fo 0000 coord 1 sz 37
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 10 fo 0000 coord 0 sz 31
+2024-1-5_14:27:42 set_override_ratio 77  0 
+2024-1-5_14:27:42 set_override_ratio 79  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 77 fo 0000 coord 0 sz 31
+2024-1-5_14:27:42 set_override_ratio 81  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 81 fo 0000 coord 0 sz 31
+2024-1-5_14:27:42 set_override_ratio 82  0 
+2024-1-5_14:27:42 set_override_ratio 83  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 82 fo 0000 coord 0 sz 31
+2024-1-5_14:27:42 set_override_ratio 85  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 83 fo 0000 coord 0 sz 31
+2024-1-5_14:27:42 set_override_ratio 87  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 87 fo 0000 coord 0 sz 31
+2024-1-5_14:27:42 set_override_ratio 88  0 
+2024-1-5_14:27:42 set_override_ratio 91  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 88 fo 0000 coord 0 sz 31
+2024-1-5_14:27:43 set_override_ratio 92  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 91 fo 0000 coord 0 sz 31
+2024-1-5_14:27:43 set_override_ratio 94  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 92 fo 0000 coord 0 sz 31
+2024-1-5_14:27:43 set_override_ratio 96  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 94 fo 0000 coord 0 sz 31
+2024-1-5_14:27:43 set_override_ratio 97  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 96 fo 0000 coord 0 sz 31
+2024-1-5_14:27:43 set_override_ratio 99  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 97 fo 0000 coord 0 sz 31
+2024-1-5_14:27:43 set_override_ratio 100  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 99 fo 0000 coord 0 sz 31
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 100 fo 0000 coord 0 sz 31
+2024-1-5_14:27:44 set_override_ratio 99  0 
+2024-1-5_14:27:44 set_override_ratio 97  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 99 fo 0000 coord 0 sz 31
+2024-1-5_14:27:44 set_override_ratio 96  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 97 fo 0000 coord 0 sz 31
+2024-1-5_14:27:44 set_override_ratio 94  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 94 fo 0000 coord 0 sz 31
+2024-1-5_14:27:44 set_override_ratio 92  0 
+2024-1-5_14:27:44 set_override_ratio 91  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 92 fo 0000 coord 0 sz 31
+2024-1-5_14:27:44 set_override_ratio 88  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 91 fo 0000 coord 0 sz 31
+2024-1-5_14:27:44 set_override_ratio 86  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 86 fo 0000 coord 0 sz 31
+2024-1-5_14:27:44 set_override_ratio 85  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 85 fo 0000 coord 0 sz 31
+2024-1-5_14:27:44 set_override_ratio 83  0 
+2024-1-5_14:27:45 set_override_ratio 82  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 83 fo 0000 coord 0 sz 31
+2024-1-5_14:27:45 set_override_ratio 81  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 81 fo 0000 coord 0 sz 31
+2024-1-5_14:27:45 set_override_ratio 79  0 
+2024-1-5_14:27:45 set_override_ratio 77  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 79 fo 0000 coord 0 sz 31
+2024-1-5_14:27:45 set_override_ratio 76  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 77 fo 0000 coord 0 sz 31
+2024-1-5_14:27:45 set_override_ratio 74  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 76 fo 0000 coord 0 sz 31
+2024-1-5_14:27:45 set_override_ratio 73  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 74 fo 0000 coord 0 sz 31
+2024-1-5_14:27:45 set_override_ratio 70  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 70 fo 0000 coord 0 sz 31
+2024-1-5_14:27:45 set_override_ratio 69  0 
+2024-1-5_14:27:45 set_override_ratio 68  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 69 fo 0000 coord 0 sz 31
+2024-1-5_14:27:45 set_override_ratio 67  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 68 fo 0000 coord 0 sz 31
+2024-1-5_14:27:45 set_override_ratio 65  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 67 fo 0000 coord 0 sz 31
+2024-1-5_14:27:45 set_override_ratio 64  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 65 fo 0000 coord 0 sz 31
+2024-1-5_14:27:45 set_override_ratio 63  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 64 fo 0000 coord 0 sz 31
+2024-1-5_14:27:45 set_override_ratio 60  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 63 fo 0000 coord 0 sz 31
+2024-1-5_14:27:45 set_override_ratio 59  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 60 fo 0000 coord 0 sz 31
+2024-1-5_14:27:45 set_override_ratio 58  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 58 fo 0000 coord 0 sz 31
+2024-1-5_14:27:45 set_override_ratio 56  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 56 fo 0000 coord 0 sz 31
+2024-1-5_14:27:46 set_override_ratio 55  0 
+2024-1-5_14:27:46 set_override_ratio 54  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 55 fo 0000 coord 0 sz 31
+2024-1-5_14:27:46 set_override_ratio 52  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 52 fo 0000 coord 0 sz 31
+2024-1-5_14:27:46 set_override_ratio 51  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 51 fo 0000 coord 0 sz 31
+2024-1-5_14:27:47 set_override_ratio 52  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 52 fo 0000 coord 0 sz 31
+2024-1-5_14:27:47 set_override_ratio 54  0 
+2024-1-5_14:27:47 set_override_ratio 56  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 54 fo 0000 coord 0 sz 31
+2024-1-5_14:27:47 set_override_ratio 58  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 56 fo 0000 coord 0 sz 31
+2024-1-5_14:27:47 set_override_ratio 60  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 58 fo 0000 coord 0 sz 31
+2024-1-5_14:27:47 set_override_ratio 61  0 
+2024-1-5_14:27:47 set_override_ratio 63  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 61 fo 0000 coord 0 sz 31
+2024-1-5_14:27:47 set_override_ratio 67  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 63 fo 0000 coord 0 sz 31
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 67 fo 0000 coord 0 sz 31
+2024-1-5_14:27:48 set_override_ratio 68  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 68 fo 0000 coord 0 sz 31
+2024-1-5_14:27:48 set_override_ratio 69  0 
+2024-1-5_14:27:48 set_override_ratio 70  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 69 fo 0000 coord 0 sz 31
+2024-1-5_14:27:48 set_override_ratio 72  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 70 fo 0000 coord 0 sz 31
+2024-1-5_14:27:48 set_override_ratio 73  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 72 fo 0000 coord 0 sz 31
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 3.00 ov 73 fo 0000 coord 0 sz 31
+Network disconnected !SDK handle fun close connection !
+ShutdownAndColse socket= 00000199AA1AC308
+ShutdownAndColse socket= 00000199AA1AC310
+ShutdownAndColse socket= 00000199AA1AC318
+2024-1-5_14:27:49 Close connection !
+127.0.0.1 1

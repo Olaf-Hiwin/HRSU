@@ -1,0 +1,16 @@
+C:\Users\olaf.desanctis\source\repos\Hiwin Robot Setup Utility\Hiwin Robot Setup Utility\obj\Debug\Hiwin Robot Setup Utility.vbproj.AssemblyReference.cache
+C:\Users\olaf.desanctis\source\repos\Hiwin Robot Setup Utility\Hiwin Robot Setup Utility\obj\Debug\Hiwin_Robot_Setup_Utility.frmMain.resources
+C:\Users\olaf.desanctis\source\repos\Hiwin Robot Setup Utility\Hiwin Robot Setup Utility\obj\Debug\Hiwin_Robot_Setup_Utility.Resources.resources
+C:\Users\olaf.desanctis\source\repos\Hiwin Robot Setup Utility\Hiwin Robot Setup Utility\obj\Debug\Hiwin Robot Setup Utility.vbproj.GenerateResource.cache
+C:\Users\olaf.desanctis\source\repos\Hiwin Robot Setup Utility\Hiwin Robot Setup Utility\obj\Debug\Hiwin Robot Setup Utility.vbproj.CoreCompileInputs.cache
+C:\Users\olaf.desanctis\source\repos\Hiwin Robot Setup Utility\Hiwin Robot Setup Utility\bin\Debug\Hiwin Robot Setup Utility.exe.config
+C:\Users\olaf.desanctis\source\repos\Hiwin Robot Setup Utility\Hiwin Robot Setup Utility\bin\Debug\Hiwin Robot Setup Utility.exe
+C:\Users\olaf.desanctis\source\repos\Hiwin Robot Setup Utility\Hiwin Robot Setup Utility\bin\Debug\Hiwin Robot Setup Utility.pdb
+C:\Users\olaf.desanctis\source\repos\Hiwin Robot Setup Utility\Hiwin Robot Setup Utility\bin\Debug\Hiwin Robot Setup Utility.xml
+C:\Users\olaf.desanctis\source\repos\Hiwin Robot Setup Utility\Hiwin Robot Setup Utility\obj\Debug\Hiwin Robot Setup Utility.exe
+C:\Users\olaf.desanctis\source\repos\Hiwin Robot Setup Utility\Hiwin Robot Setup Utility\obj\Debug\Hiwin Robot Setup Utility.xml
+C:\Users\olaf.desanctis\source\repos\Hiwin Robot Setup Utility\Hiwin Robot Setup Utility\obj\Debug\Hiwin Robot Setup Utility.pdb
+C:\Users\olaf.desanctis\source\repos\Hiwin Robot Setup Utility\Hiwin Robot Setup Utility\obj\Debug\Hiwin_Robot_Setup_Utility.frmTime.resources
+C:\Users\olaf.desanctis\source\repos\Hiwin Robot Setup Utility\Hiwin Robot Setup Utility\obj\Debug\Hiwin_Robot_Setup_Utility.frmContMov.resources
+C:\Users\olaf.desanctis\source\repos\Hiwin Robot Setup Utility\Hiwin Robot Setup Utility\obj\Debug\Hiwin_Robot_Setup_Utility.frmRepeat.resources
+C:\Users\olaf.desanctis\source\repos\Hiwin Robot Setup Utility\Hiwin Robot Setup Utility\obj\Debug\Hiwin_Robot_Setup_Utility.frmProgress.resources

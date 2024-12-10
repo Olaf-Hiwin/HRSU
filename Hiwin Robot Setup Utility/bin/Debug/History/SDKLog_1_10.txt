@@ -1,0 +1,11 @@
+hdl 1 cmd 0 rlt 4702 alv 0 alm 2 msts 0 op 0 t1/2 0 pl 3.00 ov 16 fo 0001 coord 0 sz 31
+Command 2002 ptp_axis Err code 2006
+2024-1-5_14:18:5 ptp_axis 0 60 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 49 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48  2006 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 2 msts 0 op 0 t1/2 0 pl 3.00 ov 16 fo 0000 coord 0 sz 31
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 0 op 0 t1/2 0 pl 3.00 ov 16 fo 0000 coord 0 sz 31
+Network disconnected !SDK handle fun close connection !
+ShutdownAndColse socket= 000002284925B548
+ShutdownAndColse socket= 000002284925B550
+ShutdownAndColse socket= 000002284925B558
+2024-1-5_14:18:13 Close connection !
+127.0.0.1 1

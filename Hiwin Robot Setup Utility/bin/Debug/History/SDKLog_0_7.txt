@@ -1,0 +1,12 @@
+2024-6-17_10:52:14 set_mode 0  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 10 fo 0000 coord 0 sz 31
+"HRSDK version" does not match "HRSS SDK version", some functions can't be used.
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 0 t1/2 0 pl 0.00 ov 10 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 0.00 ov 10 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 0.00 ov 10 fo 0000 coord 0 sz 31
+Network disconnected !SDK handle fun close connection !
+ShutdownAndColse socket= 0603351C
+ShutdownAndColse socket= 06033520
+ShutdownAndColse socket= 06033524
+2024-6-17_10:52:19 Close connection !
+127.0.0.1 0
